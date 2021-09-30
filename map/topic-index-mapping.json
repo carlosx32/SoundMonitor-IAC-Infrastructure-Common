@@ -3,14 +3,14 @@
     "process-type": "audio",
     "kafka-upload-topic-name": "audio_upload_event",
     "kafka-result-topic-name": "audio_result_event",
-    "bucket-name": "soundmonitor-audiodata",
+    "bucket-name": "soundmonitor-audiodata-663588064491",
     "index-name": "audio_result"
   },
   {
     "process-type": "images",
     "kafka-upload-topic-name": "visual_upload_event",
     "kafka-result-topic-name": "visual_result_event",
-    "bucket-name": "soundmonitor-visualdata",
+    "bucket-name": "soundmonitor-visualdata-663588064491",
     "index-name": "visual_result"
   }
 ]
